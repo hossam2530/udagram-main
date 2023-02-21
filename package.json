@@ -1,0 +1,6 @@
+{
+    "scripts": {
+        "api:install": "cd reactnd-contacts-server && npm install",
+        "front:install": "cd reactnd-contacts-complete && npm install"
+    }
+}

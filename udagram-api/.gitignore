@@ -37,5 +37,7 @@ UserInterfaceState.xcuserstate
 node_modules
 venv/
 .env
+.gitignore
+bin
 # Elastic Beanstalk Files
 
